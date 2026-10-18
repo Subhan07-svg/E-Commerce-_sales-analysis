@@ -1,20 +1,6 @@
 ## Project Documentation
 
-### Page 1
-![Project Page 1](E-commerce-page-1.png)
-
-### Page 2
 ![Project Page 2](E-commerce-page-2.png)
-
-### Page 3
-![Project Page 3](E-commerce-page-3.png)
-
-### Page 4
-![Project Page 4](E-commerce-page-4.png)
-
-### Page 5
-![Project Page 5](E-commerce-page-5.png)
-
 # 🛒 E-Commerce Sales Analysis
 
 ## 📌 Project Overview
